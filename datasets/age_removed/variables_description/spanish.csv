@@ -1,0 +1,177 @@
+Categoría,Nombre,ID
+Anio_Inicio, año de inicio, año
+Anio_Fin, año de fin, año
+Tumor,Labio cavidad oral y faringe,1
+Tumor,Esófago,2
+Tumor,Estómago,3
+Tumor,Intestino delgado,4
+Tumor,Colon,5
+Tumor,Recto y ano,6
+Tumor,Colorrectal,7
+Tumor,Hígado y vías biliares intrahepáticas,8
+Tumor,Vesícula biliar y vías biliares extrahepáticas,9
+Tumor,Páncreas,10
+Tumor,Laringe,11
+Tumor,Pulmón,12
+Tumor,Hueso,13
+Tumor,Melanoma cutáneo,14
+Tumor,Tejido conjuntivo y partes blandas,15
+Tumor,Mama,16
+Tumor,Cérvix uterino,17
+Tumor,Cuerpo uterino,18
+Tumor,Otros órganos genitales femeninos,19
+Tumor,Ovario,20
+Tumor,Próstata,21
+Tumor,Testículo,22
+Tumor,Riñón (sin pelvis),23
+Tumor,Vejiga urinaria,24
+Tumor,Cerebro y SNC,25
+Tumor,Tiroides,26
+Tumor,Linfoma no Hodgkin,27
+Tumor,Linfoma de Hodgkin,28
+Tumor,Mieloma múltiple,29
+Tumor,Leucemias,30
+Tumor,Total excepto piel no melanoma,31
+Tumor,Total,32
+Tumor,Leucemia linfocítica crónica/linfoma linfocítico de células pequeñas (CLL/SLL),33
+Tumor,Leucemia mieloide aguda (AML),34
+Tumor,Leucemia mieloide crónica (CML),35
+CIE10,C00-C14,1
+CIE10,C15,2
+CIE10,C16,3
+CIE10,C17,4
+CIE10,C18,5
+CIE10,C19-C21,6
+CIE10,C18-C21,7
+CIE10,C22,8
+CIE10,C23-C24,9
+CIE10,C25,10
+CIE10,C32,11
+CIE10,C33-C34,12
+CIE10,C40-C41,13
+CIE10,C43,14
+CIE10,C47C49,15
+CIE10,C50,16
+CIE10,C53,17
+CIE10,C54,18
+CIE10,C51C52C55C57C58,19
+CIE10,C56,20
+CIE10,C61,21
+CIE10,C62,22
+CIE10,C64,23
+CIE10,C67,24
+CIE10,C67D09.0D41.4,25
+CIE10,C70-C72,26
+CIE10,C73,27
+CIE10,C82-C86C88,28
+CIE10,C81,29
+CIE10,C90,30
+CIE10,C91-C95,31
+CIE10,C00-C96 excepto C44,32
+CIE10,C00-C96,33
+CIE10,C91.1,34
+CIE10,C92.0,35
+CIE10,C92.1,36
+Grupo de edad,Total,0
+Grupo de edad,De 0 a 4 años,1
+Grupo de edad,De 5 a 9 años,2
+Grupo de edad,De 10 a 14 años,3
+Grupo de edad,De 15 a 19 años,4
+Grupo de edad,De 20 a 24 años,5
+Grupo de edad,De 25 a 29 años,6
+Grupo de edad,De 30 a 34 años,7
+Grupo de edad,De 35 a 39 años,8
+Grupo de edad,De 40 a 44 años,9
+Grupo de edad,De 45 a 49 años,10
+Grupo de edad,De 50 a 54 años,11
+Grupo de edad,De 55 a 59 años,12
+Grupo de edad,De 60 a 64 años,13
+Grupo de edad,De 65 a 69 años,14
+Grupo de edad,De 70 a 74 años,15
+Grupo de edad,De 75 a 79 años,16
+Grupo de edad,De 80 a 84 años,17
+Grupo de edad,De 85 y más años,18
+Grupo de edad,Menores de 45 años,19
+Grupo de edad,De 45 a 54 años,20
+Grupo de edad,De 55 a 64 años,21
+Grupo de edad,De 65 a 74 años,22
+Grupo de edad,De 75 y más años,23
+Grupo de edad,<55,24
+Medida de Carga,Mortalidad,1
+Medida de Carga,Incidencia,2
+Medida de Carga,Prevalencia,3
+Medida de Carga,Supervivencia,4
+Sexo, Hombre/s, 1
+Sexo, Mujer/es, 2
+Sexo, Ambos, 3
+CCAA, España, 00
+CCAA, Andalucia, 01
+CCAA, Aragon, 02
+CCAA, Principado de Asturias, 03
+CCAA, Illes Balears, 04
+CCAA, Canarias, 05
+CCAA, Cantabria, 06
+CCAA, Castilla y Leon, 07
+CCAA, Castilla - La Mancha, 08
+CCAA, Cataluña, 09
+CCAA, Comunitat Valenciana, 10
+CCAA, Extremadura, 11
+CCAA, Galicia, 12
+CCAA, Comunidad de Madrid, 13
+CCAA, Region de Murcia, 14
+CCAA, Comunidad Foral de Navarra, 15
+CCAA, Pais Vasco, 16
+CCAA, La Rioja, 17
+CCAA, Ceuta, 18
+CCAA, Melilla, 19
+CCAA,Ceuta y Melilla, 20
+CCAA,Residentes en el Extranjero, 22
+CCAA,Extranjero,22
+CCAA,Desconocido,23
+Variable,Tasa cruda,
+Variable,defunciones,número de defunciones
+Variable,Tasa ajustada a la población europea,
+Variable,Tasa ajustada a la población mundial,
+Variable,Casos nuevos,
+Variable,Proporción a 1 año bruta (x100.000 habitantes),
+Variable,Proporción a 3 años bruta (x100.000 habitantes),
+Variable,Proporción a 5 años bruta (x100.000 habitantes),
+Variable,Proporción total bruta (x100.000 habitantes),
+Variable,Proporción a 1 año estandarizada por edad según la población europea 2013 (x100.000 habitantes),
+Variable,Proporción a 3 años estandarizada por edad según la población europea 2013 (x100.000 habitantes),
+Variable,Proporción a 5 años estandarizada por edad según la población europea 2013 (x100.000 habitantes),
+Variable,Proporción total estandarizada por edad según la población europea 2013 (x100.000 habitantes),
+Variable,Proporción a 1 año estandarizada por edad según la población mundial 2013 (x100.000 habitantes),
+Variable,Proporción a 3 años estandarizada por edad según la población mundial 2013 (x100.000 habitantes),
+Variable,Proporción a 5 años estandarizada por edad según la población mundial 2013 (x100.000 habitantes),
+Variable,Proporción total estandarizada por edad según la población mundial 2013 (x100.000 habitantes),
+Variable,Número de casos prevalentes a 1 año,
+Variable,Número de casos prevalentes a 3 años,
+Variable,Número de casos prevalentes a 5 años,
+Variable,Número de casos prevalentes totales,
+Variable,Supervivencia neta estandarizada por edad a 1 año (%),
+Variable,Supervivencia neta estandarizada por edad a 3 años (%),
+Variable,Supervivencia neta estandarizada por edad a 5 años (%),
+Variable,Supervivencia neta a 1 año (%),
+Variable,Supervivencia neta a 3 años (%),
+Variable,Supervivencia neta a 5 años (%),
+Variable,Supervivencia observada a 1 año (%),
+Variable,Supervivencia observada a 3 años (%),
+Variable,Supervivencia observada a 5 años (%),
+Variable,Arsenico(As), ug/m3 Contaminantes con valor legislado
+Variable,Cadmio(Cd), ug/m3 Contaminantes con valor legislado
+Variable,Niquel(Ni), ug/m3 Contaminantes con valor legislado
+Variable,Particulas(PM2.5), ug/m3 Contaminantes con valor legislado
+Variable,Plomo(Pb), ug/m3 Contaminantes con valor legislado
+Variable,Benceno(C6H6), ug/m3 Contaminantes con valor legislado
+Variable,temp_media_anual, Temperatura media anual
+Variable,temp_max_abs, Temperatura máxima
+Variable,temp_min_abs, Temperatura mínima
+Variable,precipitacion_total, Precipitación total
+Variable,dias_lluvia, Númerode días con lluvia
+Variable,noches_tropicales, Número de noches tropicales
+Variable,RentaNeta, Media de renta neta por hogar
+Variable,Poblacion, Número de habitantes
+Variable,Empleados(miles), Número en miles de empleados en empresas de industria
+Variable,Num_empresas, Número de empresas de industria
+Variable,PIB(millones-industria), Número del PIB de las empresas de industria
