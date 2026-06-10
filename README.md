@@ -1,2 +1,2 @@
 # sd-spain-cancer
-Repositorio del proyecto de investigación sobre datos poblacionales abiertos y heterogéneos de España relacionados con cáncer, contaminantes ambientales, variables climáticas y factores socioeconómicos, utilizando técnicas de Subgroup Discovery para la identificación de patrones y relaciones relevantes.
+Repository for a research project on heterogeneous open population data in Spain related to cancer, environmental pollutants, climate variables, and socio-economic factors, using Subgroup Discovery techniques for pattern and relationship mining.
